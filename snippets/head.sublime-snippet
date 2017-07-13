@@ -1,0 +1,32 @@
+<snippet>
+  <content><![CDATA[
+/*soh**************************************************************************************************************************
+Eli Lilly and Company -   Global Statistical Sciences
+CODE NAME              : $1
+PROJECT NAME           : 
+DESCRIPTION            : 
+SPECIFICATIONS         : 
+VALIDATION TYPE        : Independent Replication
+INDEPENDENT REPLICATION: N/A
+COMPONENT CODE MODULES : N/A
+SOFTWARE/VERSION#      : SAS/Version 9.4
+INFRASTRUCTURE         : CLUWE
+DATA INPUT             : 
+OUTPUT                 : 
+SPECIAL INSTRUCTIONS   : 
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+DOCUMENTATION AND REVISION HISTORY SECTION           :
+Author &
+Ver# Validator Code History Description
+---- ---------------- -----------------------------------------------------------------------------------------------------
+1.0 <Author name> Original version of the code
+1.1 <Author name> List reason(s) for minor revision(s) <example, “New header or footnote required, see section 6.1”>
+**eoh**************************************************************************************************************************/
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>head</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.sas</scope>
+  <description>quick print</description>
+</snippet>

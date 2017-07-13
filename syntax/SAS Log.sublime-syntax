@@ -1,0 +1,22 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+name: SAS Log
+file_extensions:
+  - log
+scope: source.SASLog
+contexts:
+  main:
+    - match: ^NOTE:.+\b(uninitialized|Invalid|MERGE statement has more than one data set|values have been converted|Input data set is empty|W.D format|Missing values were generated|Unknown|will be overwritten by)\b.*
+      comment: Note Error line
+      scope: invalid.source.SASLog    
+    - match: ^NOTE:.*
+      comment: Note line
+      scope: keyword.source.SASLog
+    - match: (^(ERROR|WARNING:)).*
+      comment: Error line
+      scope: invalid.source.SASLog
+
+    - match: ^INFO.*
+      comment: Info message
+      scope: entity.name.function.source.SASLog
