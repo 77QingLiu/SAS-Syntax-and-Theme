@@ -4,10 +4,9 @@
 
 A Sublime Text package for SAS syntax highlight and color scheme which mimic the SAS system. 
 
-![Screen Shot](screen_shot.png)
+![Screen Shot](screen_shot.PNG)
 
 ***
-![test](test.png)
 
 ## How to Install
 
