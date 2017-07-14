@@ -28,5 +28,5 @@ You can also install the theme manually:
 
 ***
 
-#### Thanks 
+## Thanks 
 The SAS Programming Package developed by [rpardee](https://packagecontrol.io/browse/authors/rpardee), [friedegg](https://packagecontrol.io/browse/authors/friedegg), [seemack](https://packagecontrol.io/browse/labels/snippets).
