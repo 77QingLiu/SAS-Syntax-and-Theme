@@ -7,6 +7,8 @@ A Sublime Text package for SAS syntax highlight and color scheme which mimic the
 ![Screen Shot](screen_shot.png)
 
 ***
+![test](test.png)
+
 ## How to Install
 
 #### Via Package Control
