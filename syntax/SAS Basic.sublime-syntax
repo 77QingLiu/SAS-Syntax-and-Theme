@@ -113,7 +113,7 @@ contexts:
 
 
     # Proc SQL keyword
-    - match: ^\s*(?i:((proc) +(sql) *\w*;))
+    - match: ^\s*(?i:((proc) +(sql) *\w* *;))
       captures: 
         2: entity.proc.sas
         3: entity.proc.sas 
@@ -461,6 +461,9 @@ contexts:
   macro:
     - match: (&+(?i:[a-z_]([a-z0-9_]+)?)(\.+)?)\b
       scope: support.class.character-class.sas
+    - match: "{{funcList}}"
+      captures:
+        1: variable.function.sas
     - match: (%(?i:[a-z_]([a-z0-9_]+)?)\b)
       scope: support.class.character-class.sas
 
