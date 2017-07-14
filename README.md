@@ -12,11 +12,11 @@ A Sublime Text package for SAS syntax highlight and color scheme which mimic the
 
 #### Via Package Control
 
-The easiest way to install is using [Sublime Package Control](https://packagecontrol.io/), where Spacegray is listed as `SAS-Syntax-and-Theme`.
+The easiest way to install is using [Sublime Package Control](https://packagecontrol.io/), where the package is listed as `SAS-Syntax-and-Theme`.
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
 2. Choose `Package Control: Install Package`
-3. Find `Theme - Spacegray` and hit <kbd>Enter</kbd>
+3. Find `SAS-Syntax-and-Theme` and hit <kbd>Enter</kbd>
 
 #### Manual
 
