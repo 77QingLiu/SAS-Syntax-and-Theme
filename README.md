@@ -16,7 +16,7 @@ The easiest way to install is using [Sublime Package Control](https://packagecon
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
 2. Choose `Package Control: Install Package`
-3. Find `SAS-Syntax-and-Theme` and hit <kbd>Enter</kbd>
+3. Find `SAS Syntax` and hit <kbd>Enter</kbd>
 
 #### Manual
 
@@ -27,6 +27,11 @@ You can also install the theme manually:
 3. Copy the folder into `Packages` directory, which you can find using the menu item `Sublime Text -> Preferences -> Browse Packages...`
 
 ***
+## How to use
 
+1. Step 1: Select the SAS syntax
+   ![Step 1](step1.png)
+2. Step 2: Select the SAS theme
+   ![Step 2](step2.png)
 ## Thanks 
 The SAS Programming Package developed by [rpardee](https://packagecontrol.io/browse/authors/rpardee), [friedegg](https://packagecontrol.io/browse/authors/friedegg), [seemack](https://packagecontrol.io/browse/labels/snippets).
